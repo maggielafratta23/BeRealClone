@@ -11,14 +11,20 @@ Time spent: **7** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] User can register a new account
-- [X] User can log in with newly created account
-- [X] App has a feed of posts when user logs in
-- [X] User can upload a new post which takes in a picture from photo library and a caption	
+- [] User can register a new account
+- [] User can log in with newly created account
+- [] App has a feed of posts when user logs in
+- [] User can upload a new post which takes in a picture from photo library and a caption	
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
+
+https://user-images.githubusercontent.com/122281308/221475659-6a98877a-c082-4bb6-93a8-1770e875107f.mp4
+
+
 
 GIF created with Kap 
 
@@ -26,6 +32,8 @@ GIF created with Kap
 ## Notes
 
 Encountered a few roadblocks with error messages, particularly creating them for use to find specific problems when debugging.
+
+After app was inititally working, went back to record gif for project @ app suddenly crashes with an invalid token error. Continuing to debug & adding progress for now. 
 
 ## License
 
